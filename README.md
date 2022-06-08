@@ -6,5 +6,5 @@ If the two players choose the same “character” it’s a tie, and the game re
 Rock beats Scissors
 Paper beats Rock
 Scissors beats Paper
-You can find how to play on youtubr through this link
+You can find how to play on Youtube through this link
 https://youtu.be/ND4fd6yScBM
